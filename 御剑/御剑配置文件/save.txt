@@ -1,0 +1,3 @@
+[+]code:200 url:http://127.0.0.1/phpinfo.php
+[+]code:200 url:http://127.0.0.1/shell.php
+[+]code:200 url:http://127.0.0.1/robots.txt

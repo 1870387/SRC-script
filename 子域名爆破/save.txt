@@ -1,0 +1,33 @@
+[+] 查询到的域名：c.cainiao.com IP地址：23.119.215.16  None 端口：80/open 
+[+] 查询到的域名：cloudprint.cainiao.com IP地址：23.119.213.2  None 端口：80/open 
+[+] 查询到的域名：cpf.data.cainiao.com IP地址：23.119.27.123  标题：CPF菜鸟数据运营平台 web环境：Tengine/Aserver 端口：80/open 
+[+] 查询到的域名：fe.lecp.cainiao.com IP地址：16.11.61.7  标题：405 web环境：Tengine 端口：80/open 
+[+] 查询到的域名：kn.wms.cainiao.com IP地址：23.119.26.115  None 端口：80/open 
+[+] 查询到的域名：mail.cainiao.com IP地址：42.156.14.97  None 端口：80/open 
+[+] 查询到的域名：rs.cainiao.com IP地址：16.11.61.141  None 端口：80/open 
+[+] 查询到的域名：wms.cainiao.com IP地址：23.119.25.247  标题：CAINIAO WMS web环境：Tengine/Aserver 端口：80/open 
+[+] 查询到的域名：work.cainiao.com IP地址：23.119.244.124  None 端口：80/open 
+[+] 查询到的域名：www.cainiao.com IP地址：123.125.18.16  标题：菜鸟 web环境：Tengine 端口：80/open 
+[+] 爆破到的域名：a.cainiao.com IP地址：23.119.244.124  None 端口：80/open 
+[+] 爆破到的域名：c.cainiao.com IP地址：23.119.215.16  标题：菜鸟仓储联盟-首页 web环境：Tengine/Aserver 端口：80/open 
+[+] 爆破到的域名：c5.cainiao.com IP地址：23.119.25.247  None 端口：80/open 
+[+] 查询到的域名：c.cainiao.com IP地址：23.119.213.2  标题：菜鸟仓储联盟-首页 web环境：Tengine/Aserver 端口：80/open 
+[+] 查询到的域名：cloudprint.cainiao.com IP地址：23.119.244.125  None 端口：80/open 
+[+] 查询到的域名：cpf.data.cainiao.com IP地址：23.119.211.253  标题：CPF菜鸟数据运营平台 web环境：Tengine/Aserver 端口：80/open 
+[+] 查询到的域名：fe.lecp.cainiao.com IP地址：14.25.155.56  标题：405 web环境：Tengine 端口：80/open 
+[+] 查询到的域名：kn.wms.cainiao.com IP地址：23.119.26.24  None 端口：80/open 
+[+] 查询到的域名：mail.cainiao.com IP地址：42.156.14.97  None 端口：80/open 
+[+] 查询到的域名：rs.cainiao.com IP地址：16.11.61.141  None 端口：80/open 
+[+] 查询到的域名：wms.cainiao.com IP地址：23.119.215.16  标题：CAINIAO WMS web环境：Tengine/Aserver 端口：80/open 
+[+] 查询到的域名：work.cainiao.com IP地址：23.119.244.124  None 端口：80/open 
+[+] 查询到的域名：www.cainiao.com IP地址：123.125.18.16  标题：菜鸟 web环境：Tengine 端口：80/open 
+[+] 爆破到的域名：a.cainiao.com IP地址：23.119.215.16  None 端口：80/open 
+[+] 爆破到的域名：c.cainiao.com IP地址：23.119.214.123  标题：菜鸟仓储联盟-首页 web环境：Tengine/Aserver 端口：80/open 
+[+] 爆破到的域名：c5.cainiao.com IP地址：23.119.27.25  None 端口：80/open 
+[+] 爆破到的域名：d.cainiao.com IP地址：23.119.27.25  None 端口：80/open 
+[+] 爆破到的域名：g.cainiao.com IP地址：16.11.21.44  None 端口：
+[+] 爆破到的域名：i.cainiao.com IP地址：23.119.215.16  None 端口：80/open 
+[+] 爆破到的域名：lv.cainiao.com IP地址：16.11.61.141  None 端口：80/open 
+[+] 爆破到的域名：o.cainiao.com IP地址：16.11.29.173  None 端口：
+[+] 爆破到的域名：z.cainiao.com IP地址：23.119.213.2  标题：菜鸟物流管家--登录 web环境：Tengine/Aserver 端口：80/open 
+[+] 爆破到的域名：www.cainiao.com IP地址：123.125.18.17  标题：菜鸟 web环境：Tengine 端口：80/open 

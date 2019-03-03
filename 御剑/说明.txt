@@ -1,0 +1,7 @@
+1->mitsurugi.py为御剑扫描
+2->IP.generation.py为IP生成器
+3.需要删除或减少扫描文件删除或增加御剑配置文件
+4.Error/error.txt可自行进行过滤添加
+5.mitsurugi.exe是打包好了的exe不需要python环境只需要目录环境正确即可
+
+
